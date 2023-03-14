@@ -1,0 +1,91 @@
+.one{
+    background-color: black;
+  }
+#searchB{
+    width: 20px;
+    height: 20px;
+    background-color:yellow;
+}
+#search{
+    width: 20px;
+    height: 20px;
+}
+#submit{
+    margin-left:1200px;
+    background-color:yellow;
+    text-align: right;
+}
+button {
+    background-color:yellow;
+    border: black;
+    color: black;
+    text-align: right;
+  }
+ul {
+    margin-right:160px ;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-emphasis-color: white;
+  }
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  li:last-child {
+    border-right: none;
+  }
+  #star{
+    margin-right: 700px;
+    width: 20px;
+    height: 20px;
+    text-align: right;
+  }
+  #st2{
+    width: 20px;
+    height: 20px;
+    text-align: right;
+  }
+  #img1{
+    width: 200px;
+    height: 370px;
+  }
+  #watch{
+    background-color: blue;
+  }
+  .one input[type=text]{
+        text-align:left;
+        width: 400px;
+    }
+  .two{
+    background-color:grey;
+  }
+  .three{
+    background-color:gainsboro;
+  }
+  .flex-container{
+    background-color:gainsboro;
+    display: flex;
+  }
+  
+  h2{
+    display:inline;
+    }
+  h4{
+    display:inline;
+    }
+  .e{
+     width: 20%;
+  }
+  .d{
+    width: 75%
+  }
+  
